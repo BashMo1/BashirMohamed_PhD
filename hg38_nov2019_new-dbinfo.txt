@@ -1,0 +1,4 @@
+time	1574341234.83(11/21/2019)
+genomefile	hg38genome_ucsc_nov2019.fa
+trnascanfile	hg38-tRNAs-detailed.out
+git version	fatal: not a git repository: '/mnt/data/BMOHAMED/TRAX_nov2019/tRAX-master//.git'

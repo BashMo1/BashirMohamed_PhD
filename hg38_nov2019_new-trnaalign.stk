@@ -1,0 +1,528 @@
+# STOCKHOLM 1.0
+#=GF AU Infernal 1.1.2
+
+tRNA-Ala-AGC-1          -GGGGGUA..U.A.GCUCAGU--GGU--AGAGCGCGUGCUUAGCAUGCA.CGAG-------------------GU.CCUGGGUUCGAUCCCCA.GUACC...UCCACCA
+#=GR tRNA-Ala-AGC-1  PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Ala-AGC-10         -GGGGAAU..U.A.GCUCAAGU-GGU--AGAGCGCUUGCUUAGCACGCA.AGAG-------------------GU.AGUGGGAUCGAUGCCCA.CAUUC...UCCACCA
+#=GR tRNA-Ala-AGC-10 PP .*******..*.*.********.***..*********************.****...................**.*****************.*****...*******
+tRNA-Ala-AGC-11         -GGGGAAU..U.A.GCUCAAAU-GGU--AGAGCGCUCGCUUAGCAUGCG.AGAG-------------------GU.AGCGGGAUCGAUGCCCG.CAUUC...UCCACCA
+#=GR tRNA-Ala-AGC-11 PP .*******..*.*.********.***..*********************.****...................**.*****************.*****...*******
+tRNA-Ala-AGC-12         -GGGGAAU..U.A.GCUCAAGU-GGU--AGAGCGCUUGCUUAGCAUGCA.AGAG-------------------GU.AGUGGGAUCGAUGCCCA.CAUUC...UCCACCA
+#=GR tRNA-Ala-AGC-12 PP .*******..*.*.********.***..*********************.****...................**.*****************.*****...*******
+tRNA-Ala-AGC-13         -GGGGAAU..U.A.GCUCAAGC-GGU--AGAGCGCUUGCUUAGCAUGCA.AGAG-------------------GU.AGUGGGAUCGAUGCCCA.CAUUC...UCCACCA
+#=GR tRNA-Ala-AGC-13 PP .*******..*.*.********.***..*********************.****...................**.*****************.*****...*******
+tRNA-Ala-AGC-14         -GGGGAAU..U.A.GCUCAAGU-GGU--AGAGCGCUUGCUUAGCAUGCA.AGAG-------------------GU.AGUGGGAUCAAUGCCCA.CAUUC...UCCACCA
+#=GR tRNA-Ala-AGC-14 PP .*******..*.*.********.***..*********************.****...................**.*****************.*****...*******
+tRNA-Ala-AGC-15         -GGGGAAU..U.A.GCUCAAGU-GGU--AGAGCGCUCGCUUAGCAUGCG.AGAG-------------------GU.AGUGGGAUCGAUGCCCG.CAUUC...UCCACCA
+#=GR tRNA-Ala-AGC-15 PP .*******..*.*.********.***..*********************.****...................**.*****************.*****...*******
+tRNA-Ala-AGC-16         -GGGGAAU..U.A.GCCCAAGU-GGU--AGAGCGCUUGCUUAGCAUGCA.AGAG-------------------GU.AGUGGGAUCGAUGCCCA.CAUUC...UCCACCA
+#=GR tRNA-Ala-AGC-16 PP .*******..*.*.********.***..*********************.****...................**.*****************.*****...*******
+tRNA-Ala-AGC-2          -GGGGGUG..U.A.GCUCAGU--GGU--AGAGCGCGUGCUUAGCAUGCA.CGAG-------------------GC.CCCGGGUUCAAUCCCCG.GCACC...UCCACCA
+#=GR tRNA-Ala-AGC-2  PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Ala-AGC-24         -GGGGAAU..U.A.GCUCAAGC-GGU--AGAGCGCUUGCUUAGCAUGCA.AGAG-------------------GU.AGCAGGAUCGAUGCCUG.CAUUC...UCCACCA
+#=GR tRNA-Ala-AGC-24 PP .*******..*.*.********.***..*********************.****...................**.*****************.*****...*******
+tRNA-Ala-AGC-3          -GGGGGUG..U.A.GCUCAGU--GGU--AGAGCGCGUGCUUAGCAUGUA.CGAG-------------------GU.CCCGGGUUCAAUCCCCG.GCACC...UCCACCA
+#=GR tRNA-Ala-AGC-3  PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Ala-AGC-4          -GGGGAUG..U.A.GCUCAGU--GGU--AGAGCGCAUGCUUAGCAUGCA.UGAG-------------------GU.CCCGGGUUCGAUCCCCA.GCAUC...UCCACCA
+#=GR tRNA-Ala-AGC-4  PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Ala-AGC-5          -GGGGGUG..U.A.GCUCAGU--GGU--AGAGCGCGUGCUUAGCAUGCA.CGAG-------------------GC.CCUGGGUUCAAUCCCCA.GCACC...UCCACCA
+#=GR tRNA-Ala-AGC-5  PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Ala-AGC-6          -GGGGGUA..U.A.GCUCAGC--GGU--AGAGCGCGUGCUUAGCAUGCA.CGAG-------------------GU.CCUGGGUUCAAUCCCCA.AUACC...UCCACCA
+#=GR tRNA-Ala-AGC-6  PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Ala-AGC-7          -GGGGGUG..U.A.GCUCAGU--GGU--AGAGCGCGUGCUUAGCAUGCA.CGAG-------------------GC.CCCGGGUUCAAUCCCCG.GCACC...UCCACCA
+#=GR tRNA-Ala-AGC-7  PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Ala-AGC-8          -GGGGGAU..U.A.GCUCAAAU-GGU--AGAGCGCUCGCUUAGCAUGCG.AGAG-------------------GU.AGCGGGAUCGAUGCCCG.CAUCC...UCCACCA
+#=GR tRNA-Ala-AGC-8  PP .*******..*.*.********.***..*********************.****...................**.*****************.*****...*******
+tRNA-Ala-AGC-9          -GGGGAAU..U.A.GCUCAGGC-GGU--AGAGCGCUCGCUUAGCAUGCG.AGAG-------------------GU.AGCGGGAUCGACGCCCG.CAUUC...UCCACCA
+#=GR tRNA-Ala-AGC-9  PP .*******..*.*.********.***..*********************.****...................**.*****************.*****...*******
+tRNA-Ala-CGC-1          -GGGGAUG..U.A.GCUCAGU--GGU--AGAGCGCAUGCUUCGCAUGUA.UGAG-------------------GU.CCCGGGUUCGAUCCCCG.GCAUC...UCCACCA
+#=GR tRNA-Ala-CGC-1  PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Ala-CGC-2          -GGGGAUG..U.A.GCUCAGU--GGU--AGAGCGCAUGCUUCGCAUGUA.UGAG-------------------GC.CCCGGGUUCGAUCCCCG.GCAUC...UCCACCA
+#=GR tRNA-Ala-CGC-2  PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Ala-CGC-3          -GGGGAUG..U.A.GCUCAGU--GGU--AGAGCGCGCGCUUCGCAUGUG.UGAG-------------------GU.CCCGGGUUCAAUCCCCG.GCAUC...UCCACCA
+#=GR tRNA-Ala-CGC-3  PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Ala-CGC-4          -GGGGGUG..U.A.GCUCAGU--GGU--AGAGCGCGUGCUUCGCAUGUA.CGAG-------------------GC.CCCGGGUUCGACCCCCG.GCUCC...UCCACCA
+#=GR tRNA-Ala-CGC-4  PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Ala-TGC-1          -GGGGGUG..U.A.GCUCAGU--GGU--AGAGCGCAUGCUUUGCAUGUA.UGAG-------------------GU.CCCGGGUUCGAUCCCCG.GCACC...UCCACCA
+#=GR tRNA-Ala-TGC-1  PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Ala-TGC-2          -GGGGAUG..U.A.GCUCAGU--GGU--AGAGCGCAUGCUUUGCAUGUA.UGAG-------------------GU.CCCGGGUUCGAUCCCCG.GCAUC...UCCACCA
+#=GR tRNA-Ala-TGC-2  PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Ala-TGC-3          -GGGGAUG..U.A.GCUCAGU--GGU--AGAGCGCAUGCUUUGCAUGUA.UGAG-------------------GC.CCCGGGUUCGAUCCCCG.GCAUC...UCCACCA
+#=GR tRNA-Ala-TGC-3  PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Ala-TGC-4          -GGGGAUG..U.A.GCUCAGU--GGU--AGAGCGCAUGCUUUGCACGUA.UGAG-------------------GC.CCCGGGUUCAAUCCCCG.GCAUC...UCCACCA
+#=GR tRNA-Ala-TGC-4  PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Ala-TGC-5          -GGGGGUG..U.A.GCUCAGU--GGU--AGAGCGCAUGCUUUGCAUGUA.UGAG-------------------GC.CUCGGGUUCGAUCCCCG.ACACC...UCCACCA
+#=GR tRNA-Ala-TGC-5  PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Ala-TGC-6          -GGGGGUG..U.A.GCUCAGU--GGU--AGAGCACAUGCUUUGCAUGUG.UGAG-------------------GC.CCCGGGUUCGAUCCCCG.GCACC...UCCACCA
+#=GR tRNA-Ala-TGC-6  PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Ala-TGC-7          -GGGGGUG..U.A.GCUCAGU--GGU--AGAGCGCAUGCUUUGCAUGUA.UGAG-------------------GC.CUC-GGUUCGAUCCCCG.ACACC...UCCACCA
+#=GR tRNA-Ala-TGC-7  PP .*******..*.*.*******..***..*********************.****...................*7.777.78***********.*****...*******
+tRNA-Arg-ACG-1          -GGGCCAG..U.G.GCGCAAU--GGAU-AACGCGUCUGACUACGGAUCA.GAAG-------------------AU.UCCAGGUUCGACUCCUG.GCUGG...CUCGCCA
+#=GR tRNA-Arg-ACG-1  PP .*******..*.*.*******..****.*********************.****...................**.*****************.*****...*******
+tRNA-Arg-ACG-2          -GGGCCAG..U.G.GCGCAAU--GGAU-AACGCGUCUGACUACGGAUCA.GAAG-------------------AU.UCUAGGUUCGACUCCUG.GCUGG...CUCGCCA
+#=GR tRNA-Arg-ACG-2  PP .*******..*.*.*******..****.*********************.****...................**.*****************.*****...*******
+tRNA-Arg-CCG-1          -GGCCGCG..U.G.GCCUAAU--GGAU-AAGGCGUCUGAUUCCGGAUCA.GAAG-------------------AU.UGAGGGUUCGAGUCCCU.UCGUG...GUCGCCA
+#=GR tRNA-Arg-CCG-1  PP .*******..*.*.*******..****.*********************.****...................**.*****************.*****...*******
+tRNA-Arg-CCG-2          -GACCCAG..U.G.GCCUAAU--GGAU-AAGGCAUCAGCCUCCGGAGCU.GGGG-------------------AU.UGUGGGUUCGAGUCCCA.UCUGG...GUCGCCA
+#=GR tRNA-Arg-CCG-2  PP .*******..*.*.*******..****.*********************.****...................**.*****************.*****...*******
+tRNA-Arg-CCT-1          -GCCCCAG..U.G.GCCUAAU--GGAU-AAGGCACUGGCCUCCUAAGCC.AGGG-------------------AU.UGUGGGUUCGAGUCCCA.CCUGG...GGUACCA
+#=GR tRNA-Arg-CCT-1  PP .*******..*.*.*******..****.*********************.****...................**.*****************.*****...*******
+tRNA-Arg-CCT-2          -GCCCCAG..U.G.GCCUAAU--GGAU-AAGGCACUGGCCUCCUAAGCC.AGGG-------------------AU.UGUGGGUUCGAGUCCCA.CCUGG...GGUGCCA
+#=GR tRNA-Arg-CCT-2  PP .*******..*.*.*******..****.*********************.****...................**.*****************.*****...*******
+tRNA-Arg-CCT-3          -GCCCCGG..U.G.GCCUAAU--GGAU-AAGGCAUUGGCCUCCUAAGCC.AGGG-------------------AU.UGUGGGUUCGAGUCCCA.CCCGG...GGUACCA
+#=GR tRNA-Arg-CCT-3  PP .*******..*.*.*******..****.*********************.****...................**.*****************.*****...*******
+tRNA-Arg-CCT-4          -GCCCCAG..U.G.GCCUAAU--GGAU-AAGGCAUUGGCCUCCUAAGCC.AGGG-------------------AU.UGUGGGUUCGAGUCCCA.UCUGG...GGUGCCA
+#=GR tRNA-Arg-CCT-4  PP .*******..*.*.*******..****.*********************.****...................**.*****************.*****...*******
+tRNA-Arg-CCT-5          -GCCCCAG..U.G.GCCUGAU--GGAU-AAGGUACUGGCCUCCUAAGCC.AGGG-------------------AU.UGUGGGUUCGAGUUCCA.CCUGG...GGUACCA
+#=GR tRNA-Arg-CCT-5  PP .*******..*.*.*******..****.*********************.****...................**.*****************.*****...*******
+tRNA-Arg-TCG-1          -GGCCGCG..U.G.GCCUAAU--GGAU-AAGGCGUCUGACUUCGGAUCA.GAAG-------------------AU.UGCAGGUUCGAGUCCUG.CCGCG...GUCGCCA
+#=GR tRNA-Arg-TCG-1  PP .*******..*.*.*******..****.*********************.****...................**.*****************.*****...*******
+tRNA-Arg-TCG-2          -GACCACG..U.G.GCCUAAU--GGAU-AAGGCGUCUGACUUCGGAUCA.GAAG-------------------AU.UGAGGGUUCGAAUCCCU.CCGUG...GUUACCA
+#=GR tRNA-Arg-TCG-2  PP .*******..*.*.*******..****.*********************.****...................**.*****************.*****...*******
+tRNA-Arg-TCG-3          -GACCGCG..U.G.GCCUAAU--GGAU-AAGGCGUCUGACUUCGGAUCA.GAAG-------------------AU.UGAGGGUUCGAGUCCCU.UCGUG...GUCGCCA
+#=GR tRNA-Arg-TCG-3  PP .*******..*.*.*******..****.*********************.****...................**.*****************.*****...*******
+tRNA-Arg-TCG-4          -GACCACG..U.G.GCCUAAU--GGAU-AAGGCGUCUGACUUCGGAUCA.GAAG-------------------AU.UGAGGGUUCGAAUCCCU.UCGUG...GUUACCA
+#=GR tRNA-Arg-TCG-4  PP .*******..*.*.*******..****.*********************.****...................**.*****************.*****...*******
+tRNA-Arg-TCG-5          -GACCACG..U.G.GCCUAAU--GGAU-AAGGCGUCUGACUUCGGAUCA.GAAG-------------------AU.UGAGGGUUCGAAUCCCU.UCGUG...GUUGCCA
+#=GR tRNA-Arg-TCG-5  PP .*******..*.*.*******..****.*********************.****...................**.*****************.*****...*******
+tRNA-Arg-TCG-6          -GGCCGUG..U.G.GCCUAAU--GGAU-AAGGCGUCUGACUUCGGAUCA.AAAG-------------------AU.UGCAGGUUUGAGUUCUG.CCACG...GUCGCCA
+#=GR tRNA-Arg-TCG-6  PP .*******..*.*.*******..****.*********************.****...................**.*****************.*****...*******
+tRNA-Arg-TCT-1          -GGCUCCG..U.G.GCGCAAU--GGAU-AGCGCAUUGGACUUCUCAUUC.AAAG-------------------GU.UCCGGGUUCGAGUCCCG.GCGGA...GUCGCCA
+#=GR tRNA-Arg-TCT-1  PP .*******..*.*.*******..****.*********************.****...................**.*****************.*****...*******
+tRNA-Arg-TCT-2          -GGCUCUG..U.G.GCGCAAU--GGAU-AGCGCAUUGGACUUCUAAUUC.AAAG-------------------GU.UGUGGGUUCGAAUCCCA.CCAGA...GUCGCCA
+#=GR tRNA-Arg-TCT-2  PP .*******..*.*.*******..****.*********************.****...................**.*****************.*****...*******
+tRNA-Arg-TCT-3          -GGCUCUG..U.G.GCGCAAU--GGAU-AGCGCAUUGGACUUCUAAUUC.AAAG-------------------GU.UGUGGGUUCGAGUCCCA.CCAGA...GUCGCCA
+#=GR tRNA-Arg-TCT-3  PP .*******..*.*.*******..****.*********************.****...................**.*****************.*****...*******
+tRNA-Arg-TCT-4          -GUCUCUG..U.G.GCGCAAU--GGACGAGCGCGCUGGACUUCUAAUCC.AGAG-------------------GU.UCCGGGUUCGAGUCCCG.GCAGA...GAUGCCA
+#=GR tRNA-Arg-TCT-4  PP .*******..*.*.*******..**************************.****...................**.*****************.*****...*******
+tRNA-Arg-TCT-5          -GGCUCUG..U.G.GCGCAAU--GGAU-AGCGCAUUGGACUUCUGAUUC.AAAG-------------------GU.UGCGGGUUCGAGUCCCU.CCAGA...GUCGCCA
+#=GR tRNA-Arg-TCT-5  PP .*******..*.*.*******..****.*********************.****...................**.*****************.*****...*******
+tRNA-Asn-GTT-1          -GUCUCUG..U.G.GCGCAAUC-GGUU-AGCGCGUUCGGCUGUUAACCG.AAAG-------------------GU.UGGUGGUUCGAUCCCAC.CCAGG...GACGCCA
+#=GR tRNA-Asn-GTT-1  PP .*******..*.*.********.****.*********************.****...................**.*****************.*****...*******
+tRNA-Asn-GTT-10         -GUCUCUG..U.G.GCGCAAUC-GGCU-AGCGCGUUUGGCUGUUAACUA.AAAG-------------------GU.UGGCGGUUCGAACCCAC.CCAGA...GGCGCCA
+#=GR tRNA-Asn-GTT-10 PP .*******..*.*.********.****.*********************.****...................**.*****************.*****...*******
+tRNA-Asn-GTT-11         -GUCUCUG..U.G.GUGCAAUC-GGUU-AGCGCGUUCCGCUGUUAACCG.AAAG-------------------CU.UGGUGGUUCGAGCCCAC.CCAGG...GAUGCCA
+#=GR tRNA-Asn-GTT-11 PP .*******..*.*.********.****.*********************.****...................**.*****************.*****...*******
+tRNA-Asn-GTT-12         -GUCUCUG..U.G.GCGCAAUC-GGCU-AGCGCGUUUGGCUGUUAACUA.AAAA-------------------GU.UGGUGGUUCGAACACAC.CCAGA...GGCGCCA
+#=GR tRNA-Asn-GTT-12 PP .*******..*.*.********.****.*********************.****...................**.*****************.*****...*******
+tRNA-Asn-GTT-2          -GUCUCUG..U.G.GCGCAAUC-GGUU-AGCGCGUUCGGCUGUUAACCG.AAAG-------------------GU.UGGUGGUUCGAGCCCAC.CCAGG...GACGCCA
+#=GR tRNA-Asn-GTT-2  PP .*******..*.*.********.****.*********************.****...................**.*****************.*****...*******
+tRNA-Asn-GTT-24         -GUCUCUG..U.G.GCGCAAUC-GGUU-AGCGCGUUCGGCUGUUAACCG.CAAG-------------------GU.UGGUGGUUCCAGCCCAC.CCAGG...GACGCCA
+#=GR tRNA-Asn-GTT-24 PP .*******..*.*.********.****.*********************.****...................**.*****************.*****...*******
+tRNA-Asn-GTT-25         -GUCUCUG..U.G.GCGCAAUU-GGUU-AGCGCGUUCGGUUGUUAACCGuAAAG-------------------GU.UGGUGGUUCGAGCCCAC.CCAGG...AACGCCA
+#=GR tRNA-Asn-GTT-25 PP .*******..*.*.********.****.*********************77777...................**.*****************.*****...*******
+tRNA-Asn-GTT-26         -GUCUCUG..U.G.GCGCAGUC-GGUU-AGCGCGUUCGGCUGUUAACCG.GAAG-------------------GU.UGGUGGUUCGAGACCAC.CCAAG...GACGCCA
+#=GR tRNA-Asn-GTT-26 PP .*******..*.*.********.****.*********************.****...................**.*****************.*****...*******
+tRNA-Asn-GTT-27         -GUCUCUG..U.G.GCGCAAUC-GGCU-AGCGCUUUUGGCUGUUAACUA.AAAG-------------------GU.UGGUGGUUUGAACCCAC.CCAGA...GGCGCCA
+#=GR tRNA-Asn-GTT-27 PP .*******..*.*.********.****.*********************.****...................**.*****************.*****...*******
+tRNA-Asn-GTT-3          -GUCUCUG..U.G.GCGCAAUC-GGUU-AGCGCAUUCGGCUGUUAACCG.AAAG-------------------GU.UGGUGGUUCGAGCCCAC.CCAGG...GACGCCA
+#=GR tRNA-Asn-GTT-3  PP .*******..*.*.********.****.*********************.****...................**.*****************.*****...*******
+tRNA-Asn-GTT-4          -GUCUCUG..U.G.GCGCAAUC-GGUU-AGCGCGUUCGGCUGUUAACCG.AAAG-------------------AU.UGGUGGUUCGAGCCCAC.CCAGG...GACGCCA
+#=GR tRNA-Asn-GTT-4  PP .*******..*.*.********.****.*********************.****...................**.*****************.*****...*******
+tRNA-Asn-GTT-5          -GUCUCUG..U.G.GCGCAAUC-GGUU-AGCGCGUUCGGCUGUUAACUG.AAAG-------------------GU.UGGUGGUUCGAGCCCAC.CCAGG...GACGCCA
+#=GR tRNA-Asn-GTT-5  PP .*******..*.*.********.****.*********************.****...................**.*****************.*****...*******
+tRNA-Asn-GTT-6          -GUCUCUG..U.G.GCGCAAUG-GGUU-AGCGCGUUCGGCUGUUAACCG.AAAG-------------------GU.UGGUGGUUCGAGCCCAU.CCAGG...GACGCCA
+#=GR tRNA-Asn-GTT-6  PP .*******..*.*.*******6.6666.*********************.****...................**.*****************.*****...*******
+tRNA-Asn-GTT-7          -GUCUCUG..U.G.GCGUAGUC-GGUU-AGCGCGUUCGGCUGUUAACCG.AAAG-------------------GU.UGGUGGUUCGAGCCCAC.CCAGG...AACGCCA
+#=GR tRNA-Asn-GTT-7  PP .*******..*.*.********.****.*********************.****...................**.*****************.*****...*******
+tRNA-Asn-GTT-8          -GUCUCUG..U.G.GCGCAAUC-GGCU-AGCGCGUUUGGCUGUUAACUA.AAAG-------------------GU.UGGUGGUUCGAACCCAC.CCAGA...GGCGCCA
+#=GR tRNA-Asn-GTT-8  PP .*******..*.*.********.****.*********************.****...................**.*****************.*****...*******
+tRNA-Asn-GTT-9          -GUCUCUG..U.G.GCGCAAUC-GGUU-AGCGCGUUCGGCUGUUAACUG.AAAG-------------------GU.UGGUGGUUCGAGCCCAC.CCGGG...GACGCCA
+#=GR tRNA-Asn-GTT-9  PP .*******..*.*.********.****.*********************.****...................**.*****************.*****...*******
+tRNA-Asp-GTC-1          -UCCUCGU..U.A.GUAUAGU--GGUU-AGUAUCCCCGCCUGUCACGCG.GGAG-------------------A-.CCGGGGUUCAAUUCCCC.GACGG...GGAGCCA
+#=GR tRNA-Asp-GTC-1  PP .*******..*.*.*******..****.*********************.****...................*..*****************.*****...*******
+tRNA-Asp-GTC-2          -UCCUCGU..U.A.GUAUAGU--GGUG-AGUAUCCCCGCCUGUCACGCG.GGAG-------------------A-.CCGGGGUUCGAUUCCCC.GACGG...GGAGCCA
+#=GR tRNA-Asp-GTC-2  PP .*******..*.*.*******..****.*********************.****...................*..*****************.*****...*******
+tRNA-Asp-GTC-3          -UCCUCGU..U.A.GUAUAGU--GGUG-AGUGUCCCCGUCUGUCACGCG.GGAG-------------------A-.CCGGGGUUCGAUUCCCC.GACGG...GGAGCCA
+#=GR tRNA-Asp-GTC-3  PP .*******..*.*.*******..****.*********************.****...................*..*****************.*****...*******
+tRNA-Cys-GCA-1          -GGGGGCA..U.A.GCUCAGU--GGU--AGAGCAUUUGACUGCAGAUCA.AGAG-------------------GU.CCCUGGUUCAAAUCCAG.GUGCC...CCCUCCA
+#=GR tRNA-Cys-GCA-1  PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Cys-GCA-10         -GGGGGUA..U.A.GCUCAGG--GGU--AGAGCAUUUGACUGCAGAUCA.AGAG-------------------GU.CCCUGGUUCAAAUCCAG.GUGCC...CCCCCCA
+#=GR tRNA-Cys-GCA-10 PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Cys-GCA-11         -GGGGGUA..U.A.GCUUAGC--GGU--AGAGCAUUUGACUGCAGAUCA.AGAG-------------------GU.CCCCGGUUCAAAUCCGG.GUGCC...CCCUCCA
+#=GR tRNA-Cys-GCA-11 PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Cys-GCA-12         -GGGGGUA..U.A.GCUUAGG--GGU--AGAGCAUUUGACUGCAGAUCA.AAAG-------------------GU.CCCUGGUUCAAAUCCAG.GUGCC...CCUUCCA
+#=GR tRNA-Cys-GCA-12 PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Cys-GCA-13         -GGGGGUA..U.A.GCUCAGG--GGU--AGAGCAUUUGACUGCAGAUCA.AGAG-------------------GU.CCCCAGUUCAAAUCUGG.GUGCC...CCCUCCA
+#=GR tRNA-Cys-GCA-13 PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Cys-GCA-14         -GGGGGUA..U.A.GCUCAGG--GGU--AGAGCAUUUGACUGCAGAUCA.AGAA-------------------GU.CCCCGGUUCAAAUCCGG.GUGCC...CCCUCCA
+#=GR tRNA-Cys-GCA-14 PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Cys-GCA-15         -GGGGGUA..U.A.GCUCAGG--GGU--AGAGCAUUUGACUGCAGAUCA.AGAG-------------------GU.CUCUGGUUCAAAUCCAG.GUGCC...CCCUCCA
+#=GR tRNA-Cys-GCA-15 PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Cys-GCA-16         -GGGGGUA..U.A.GCUCAGG--GGU--AGAGCACUUGACUGCAGAUCA.AGAA-------------------GU.CCUUGGUUCAAAUCCAG.GUGCC...CCCUCCA
+#=GR tRNA-Cys-GCA-16 PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Cys-GCA-17         -GGGGAUA..U.A.GCUCAGG--GGU--AGAGCAUUUGACUGCAGAUCA.AGAG-------------------GU.CCCCGGUUCAAAUCCGG.GUGCC...CCCCCCA
+#=GR tRNA-Cys-GCA-17 PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Cys-GCA-18         -GGGGGUA..U.A.GUUCAGG--GGU--AGAGCAUUUGACUGCAGAUCA.AGAG-------------------GU.CCCUGGUUCAAAUCCAG.GUGCC...CCCUCCA
+#=GR tRNA-Cys-GCA-18 PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Cys-GCA-19         -GGGGGUA..U.A.GCUCAGG--GGU--AGAGCAUUUGACUGCAAAUCA.AGAG-------------------GU.CCCUGAUUCAAAUCCAG.GUGCC...CCCUCCA
+#=GR tRNA-Cys-GCA-19 PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Cys-GCA-2          -GGGGGUA..U.A.GCUCAGU--GGU--AGAGCAUUUGACUGCAGAUCA.AGAG-------------------GU.CCCCGGUUCAAAUCCGG.GUGCC...CCCUCCA
+#=GR tRNA-Cys-GCA-2  PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Cys-GCA-20         -GGGCGUA..U.A.GCUCAGG--GGU--AGAGCAUUUGACUGCAGAUCA.AGAG-------------------GU.CCCCAGUUCAAAUCUGG.GUGCC...CCCUCCA
+#=GR tRNA-Cys-GCA-20 PP .9999999..9.*.*******..***..*********************.****...................**.*****************.*****...*999999
+tRNA-Cys-GCA-21         -GGGGGUA..U.A.GCUCACA--GGU--AGAGCAUUUGACUGCAGAUCA.AGAG-------------------GU.CCCCGGUUCAAAUCUGG.GUGCC...CCCUCCA
+#=GR tRNA-Cys-GCA-21 PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Cys-GCA-22         -GGGCGUA..U.A.GCUCAGG--GGU--AGAGCAUUUGACUGCAGAUCA.AGAG-------------------GU.CCCCAGUUCAAAUCUGG.GUG--...CCCACCA
+#=GR tRNA-Cys-GCA-22 PP .9999***..*.*.*******..***..*********************.****...................**.*****************.*85.....6******
+tRNA-Cys-GCA-23         -GGGGGUA..U.A.GCUCACA--GGU--AGAGCAUUUGACUGCAGAUCA.AGAG-------------------GU.CCCCGGUUCAAAUCCGG.UUACU...CCCUCCA
+#=GR tRNA-Cys-GCA-23 PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Cys-GCA-3          -GGGGGUA..U.A.GCUCAGG--GGU--AGAGCACUUGACUGCAGAUCA.AGAG-------------------GU.CCCUGGUUCAAAUCCAG.GUGCC...CCCUCCA
+#=GR tRNA-Cys-GCA-3  PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Cys-GCA-4          -GGGGGUA..U.A.GCUCAGU--GGU--AGAGCAUUUGACUGCAGAUCA.AGAG-------------------GU.CCCUGGUUCAAAUCCGG.GUGCC...CCCUCCA
+#=GR tRNA-Cys-GCA-4  PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Cys-GCA-5          -GGGGGUA..U.A.GCUCAGU--GGGU-AGAGCAUUUGACUGCAGAUCA.AGAG-------------------GU.CCCCGGUUCAAAUCCGG.GUGCC...CCCUCCA
+#=GR tRNA-Cys-GCA-5  PP .*******..*.*.*******..5555.*********************.****...................**.*****************.*****...*******
+tRNA-Cys-GCA-6          -GGGGGUG..U.A.GCUCAGU--GGU--AGAGCAUUUGACUGCAGAUCA.AGAG-------------------GU.CCCUGGUUCAAAUCCAG.GUGCC...CCCUCCA
+#=GR tRNA-Cys-GCA-6  PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Cys-GCA-7          -GGGGGUA..U.A.GCUCAGGU-GGU--AGAGCAUUUGACUGCAGAUCA.AGAG-------------------GU.CCCCGGUUCAAAUCCGG.GUGCC...CCCUCCA
+#=GR tRNA-Cys-GCA-7  PP .*******..*.*.********.***..*********************.****...................**.*****************.*****...*******
+tRNA-Cys-GCA-8          -GGGGGUA..U.A.GCUCAGG--GGU--AGAGCAUUUGACUGCAGAUCA.AGAG-------------------GU.CCCCGGUUCAAAUCCGG.GUGCC...CCCUCCA
+#=GR tRNA-Cys-GCA-8  PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Cys-GCA-9          -GGGGGUA..U.A.GCUCAGG--GGU--AGAGCAUUUGACUGCAGAUCA.AGAG-------------------GU.CCCUGGUUCAAAUCCAG.GUGCC...CCCUCCA
+#=GR tRNA-Cys-GCA-9  PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Gln-CTG-1          -GGUUCCA..U.G.GUGUAAU--GGUU-AGCACUCUGGACUCUGAAUCC.AGCG-------------------A-.UCCGAGUUCAAAUCUCG.GUGGA...ACCUCCA
+#=GR tRNA-Gln-CTG-1  PP .*******..*.*.*******..****.*********************.****...................*..*****************.*****...*******
+tRNA-Gln-CTG-2          -GGUUCCA..U.G.GUGUAAU--GGUU-AGCACUCUGGACUCUGAAUCC.AGCG-------------------A-.UCCGAGUUCAAGUCUCG.GUGGA...ACCUCCA
+#=GR tRNA-Gln-CTG-2  PP .*******..*.*.*******..****.*********************.****...................*..*****************.*****...*******
+tRNA-Gln-CTG-3          -GGUUCCA..U.G.GUGUAAU--GGUG-AGCACUCUGGACUCUGAAUCC.AGCG-------------------A-.UCCGAGUUCGAGUCUCG.GUGGA...ACCUCCA
+#=GR tRNA-Gln-CTG-3  PP .*******..*.*.*******..****.*********************.****...................*..*****************.*****...*******
+tRNA-Gln-CTG-4          -GGUUCCA..U.G.GUGUAAU--GGUA-AGCACUCUGGACUCUGAAUCC.AGCG-------------------A-.UCCGAGUUCGAGUCUCG.GUGGA...ACCUCCA
+#=GR tRNA-Gln-CTG-4  PP .*******..*.*.*******..***9.*********************.****...................*..*****************.*****...*******
+tRNA-Gln-CTG-5          -GGUUCCA..U.G.GUGUAAU--GGUU-AGCACUCUGGACUCUGAAUCC.GGUA-------------------A-.UCCGAGUUCAAAUCUCG.GUGGA...ACCUCCA
+#=GR tRNA-Gln-CTG-5  PP .*******..*.*.*******..****.*********************.****...................*..*****************.*****...*******
+tRNA-Gln-CTG-6          -GGCCCCA..U.G.GUGUAAU--GGUC-AGCACUCUGGACUCUGAAUCC.AGCG-------------------A-.UCCGAGUUCAAAUCUCG.GUGGG...ACCCCCA
+#=GR tRNA-Gln-CTG-6  PP .*******..*.*.*******..****.*********************.****...................*..*****************.*****...*******
+tRNA-Gln-CTG-7          -GGUUCCA..U.G.GUGUAAU--GGUA-AGCACUCUGGACUCUGAAUCC.AGCC-------------------A-.UCUGAGUUCGAGUCUCU.GUGGA...ACCUCCA
+#=GR tRNA-Gln-CTG-7  PP .*******..*.*.*******..***9.*********************.****...................*..*****************.*****...*******
+tRNA-Gln-TTG-1          -GGUCCCA..U.G.GUGUAAU--GGUU-AGCACUCUGGACUUUGAAUCC.AGCG-------------------A-.UCCGAGUUCAAAUCUCG.GUGGG...ACCUCCA
+#=GR tRNA-Gln-TTG-1  PP .*******..*.*.*******..****.*********************.****...................*..*****************.*****...*******
+tRNA-Gln-TTG-2          -GGUCCCA..U.G.GUGUAAU--GGUU-AGCACUCUGGACUUUGAAUCC.AGCA-------------------A-.UCCGAGUUCGAAUCUCG.GUGGG...ACCUCCA
+#=GR tRNA-Gln-TTG-2  PP .*******..*.*.*******..****.*********************.****...................*..*****************.*****...*******
+tRNA-Gln-TTG-3          -GGCCCCA..U.G.GUGUAAU--GGUU-AGCACUCUGGACUUUGAAUCC.AGCG-------------------A-.UCCGAGUUCAAAUCUCG.GUGGG...ACCUCCA
+#=GR tRNA-Gln-TTG-3  PP .*******..*.*.*******..****.*********************.****...................*..*****************.*****...*******
+tRNA-Gln-TTG-4          -GGUCCCA..U.G.GUGUAAU--GGUU-AGCACUCUGGGCUUUGAAUCC.AGCA-------------------A-.UCCGAGUUCGAAUCUUG.GUGGG...ACCUCCA
+#=GR tRNA-Gln-TTG-4  PP .*******..*.*.*******..****.*********************.****...................*..*****************.*****...*******
+tRNA-Glu-CTC-1          -UCCCUGG..U.G.GUCUAGU--GGUU-AGGAUUCGGCGCUCUCACCGC.CGCG-------------------G-.CCCGGGUUCGAUUCCCG.GUCAG...GGAACCA
+#=GR tRNA-Glu-CTC-1  PP .*******..*.*.*******..****.*********************.****...................*..*****************.*****...*******
+tRNA-Glu-CTC-2          -UCCCUGG..U.G.GUCUAGU--GGUU-AGGAUUCGGCGCUCUCACCGC.CGCG-------------------G-.CCCGGGUUCGAUUCCCG.GUCAG...GAAACCA
+#=GR tRNA-Glu-CTC-2  PP .*******..*.*.*******..****.*********************.****...................*..*****************.*****...*******
+tRNA-Glu-TTC-1          -UCCCAUA..U.G.GUCUAGC--GGUU-AGGAUUCCUGGUUUUCACCCA.GGUG-------------------G-.CCCGGGUUCGACUCCCG.GUAUG...GGAACCA
+#=GR tRNA-Glu-TTC-1  PP .*******..*.*.*******..****.*********************.****...................*..*****************.*****...*******
+tRNA-Glu-TTC-14         -UCCCUGG..U.G.GUCUAGU--GGCU-AGGAUUCGGCGCUUUCACCGC.UGCG-------------------G-.CCCGGGUUCGAUUCCCG.GUCAG...GGAACCA
+#=GR tRNA-Glu-TTC-14 PP .*******..*.*.*******..****.*********************.****...................*..*****************.*****...*******
+tRNA-Glu-TTC-2          -UCCCACA..U.G.GUCUAGC--GGUU-AGGAUUCCUGGUUUUCACCCA.GGCG-------------------G-.CCCGGGUUCGACUCCCG.GUGUG...GGAACCA
+#=GR tRNA-Glu-TTC-2  PP .*******..*.*.*******..****.*********************.****...................*..*****************.*****...*******
+tRNA-Glu-TTC-3          -UCCCUGG..U.G.GUCUAGU--GGCU-AGGAUUCGGCGCUUUCACCGC.CGCG-------------------G-.CCCGGGUUCGAUUCCCG.GCCAG...GGAACCA
+#=GR tRNA-Glu-TTC-3  PP .*******..*.*.*******..****.*********************.****...................*..*****************.*****...*******
+tRNA-Glu-TTC-4          -UCCCUGG..U.G.GUCUAGU--GGCU-AGGAUUCGGCGCUUUCACCGC.CGCG-------------------G-.CCCGGGUUCGAUUCCCG.GUCAG...GGAACCA
+#=GR tRNA-Glu-TTC-4  PP .*******..*.*.*******..****.*********************.****...................*..*****************.*****...*******
+tRNA-Gly-CCC-1          -GCAUUGG..U.G.GUUCAGU--GGU--AGAAUUCUCGCCUCCCACGCG.GGAG-------------------A-.CCCGGGUUCAAUUCCCG.GCCAA...UGCACCA
+#=GR tRNA-Gly-CCC-1  PP .*******..*.*.*******..***..*********************.****...................*..*****************.*****...*******
+tRNA-Gly-CCC-2          -GCGCCGC..U.G.GUGUAGU--GGU--AUCAUGCAAGAUUCCCAUUCU.UGCG-------------------A-.CCCGGGUUCGAUUCCCG.GGCGG...CGCACCA
+#=GR tRNA-Gly-CCC-2  PP .*******..*.*.*******..***..*********************.****...................*..*****************.*****...*******
+tRNA-Gly-CCC-3          -GCAUUGG..U.G.GUUCAAU--GGU--AGAAUUCUCGCCUCCCACGCA.GGAG-------------------A-.CCCAGGUUCGAUUCCUG.GCCAA...UGCACCA
+#=GR tRNA-Gly-CCC-3  PP .*******..*.*.*******..***..*********************.****...................*..*****************.*****...*******
+tRNA-Gly-GCC-1          -GCAUGGG..U.G.GUUCAGU--GGU--AGAAUUCUCGCCUGCCACGCG.GGAG-------------------G-.CCCGGGUUCGAUUCCCG.GCCCA...UGCACCA
+#=GR tRNA-Gly-GCC-1  PP .*******..*.*.*******..***..*********************.****...................*..*****************.*****...*******
+tRNA-Gly-GCC-2          -GCAUUGG..U.G.GUUCAGU--GGU--AGAAUUCUCGCCUGCCACGCG.GGAG-------------------G-.CCCGGGUUCGAUUCCCG.GCCAA...UGCACCA
+#=GR tRNA-Gly-GCC-2  PP .*******..*.*.*******..***..*********************.****...................*..*****************.*****...*******
+tRNA-Gly-GCC-3          -GCAUUGG..U.G.GUUCAGU--GGU--AGAAUUCUCGCCUGCCACGCG.GGAG-------------------G-.CCCGGGUUUGAUUCCCG.GCCAG...UGCACCA
+#=GR tRNA-Gly-GCC-3  PP .*******..*.*.*******..***..*********************.****...................*..*****************.*****...*******
+tRNA-Gly-GCC-4          -GCAUAGG..U.G.GUUCAGU--GGU--AGAAUUCUUGCCUGCCACGCA.GGAG-------------------G-.CCCAGGUUUGAUUCCUG.GCCCA...UGCACCA
+#=GR tRNA-Gly-GCC-4  PP .*******..*.*.*******..***..*********************.****...................*..*****************.*****...*******
+tRNA-Gly-GCC-5          -GCAUUGG..U.G.GUUCAGU--GGU--AGAAUUCUCGCCUGCCAUGCG.GGCG-------------------G-.CCGGGCUUCGAUU-CCUgGCCAA...UGCACCA
+#=GR tRNA-Gly-GCC-5  PP .*******..*.*.*******..***..*********************.***9...................9..999999*******.9999*****...*******
+tRNA-Gly-TCC-1          -GCGUUGG..U.G.GUAUAGU--GGUU-AGCAUAGCUGCCUUCCAAGCA.GUUG-------------------A-.CCCGGGUUCGAUUCCCG.GCCAA...CGCACCA
+#=GR tRNA-Gly-TCC-1  PP .*******..*.*.*******..****.*********************.****...................*..*****************.*****...*******
+tRNA-Gly-TCC-2          -GCGUUGG..U.G.GUAUAGU--GGUG-AGCAUAGCUGCCUUCCAAGCA.GUUG-------------------A-.CCCGGGUUCGAUUCCCG.GCCAA...CGCACCA
+#=GR tRNA-Gly-TCC-2  PP .*******..*.*.*******..****.*********************.****...................*..*****************.*****...*******
+tRNA-Gly-TCC-3          -GCGUUGG..U.G.GUAUAGU--GGUA-AGCAUAGCUGCCUUCCAAGCA.GUUG-------------------A-.CCCGGGUUCGAUUCCCG.GCCAA...CGCACCA
+#=GR tRNA-Gly-TCC-3  PP .*******..*.*.*******..***9.*********************.****...................*..*****************.*****...*******
+tRNA-Gly-TCC-4          -GCGUUGG..U.G.GUAUAGU--GGUG-AGCAUAGUUGCCUUCCAAGCA.GUUG-------------------A-.CCCGGGCUCGAUUCCCG.CCCAA...CGCACCA
+#=GR tRNA-Gly-TCC-4  PP .*******..*.*.*******..****.*********************.****...................*..*****************.*****...*******
+tRNA-His-GTG-1          GGCCGUGA..U.C.GUAUAGU--GGUU-AGUACUCUGCGUUGUGGCCGC.AGCA-------------------A-.CCUCGGUUCGAAUCCGA.GUCAC...GGCACCA
+#=GR tRNA-His-GTG-1  PP ********..*.*.*******..****.*********************.****...................*..*****************.*****...*******
+tRNA-Ile-AAT-1          -GGCCGGU..U.A.GCUCAGUU-GGUU-AGAGCGUGGCGCUAAUAACGC.CAAG-------------------GU.CGCGGGUUCGAUCCCCG.UACGG...GCCACCA
+#=GR tRNA-Ile-AAT-1  PP .*******..*.*.********.****.*********************.****...................**.*****************.*****...*******
+tRNA-Ile-AAT-12         -GGCCGGU..U.A.GCUCAGUC-GGUU-AGAGCGUGGUGCUAAUAACGC.CAAG-------------------GU.CGCGGGUUCGAUCCCCG.UGCCG...GUCACCA
+#=GR tRNA-Ile-AAT-12 PP .*******..*.*.********.****.*********************.****...................**.*****************.*****...*******
+tRNA-Ile-AAT-2          -GGCCGGU..U.A.GCUCAGUU-GGUU-AGAGCGUGGUGCUAAUAACGC.CAAG-------------------GU.CGCGGGUUCGAUCCCCG.UACUG...GCCACCA
+#=GR tRNA-Ile-AAT-2  PP .*******..*.*.********.****.*********************.****...................**.*****************.*****...*******
+tRNA-Ile-AAT-3          -GGCUGGU..U.A.GCUCAGUU-GGUU-AGAGCGUGGUGCUAAUAACGC.CAAG-------------------GU.CGCGGGUUCGAUCCCCG.UACUG...GCCACCA
+#=GR tRNA-Ile-AAT-3  PP .*******..*.*.********.****.*********************.****...................**.*****************.*****...*******
+tRNA-Ile-AAT-4          -GGCCGGU..U.A.GCUCAGUU-GGUU-AGAGCGUGGUGCUAAUAACGC.CAAG-------------------GU.CGCGGGUUCGAACCCCG.UACGG...GCCACCA
+#=GR tRNA-Ile-AAT-4  PP .*******..*.*.********.****.*********************.****...................**.*****************.*****...*******
+tRNA-Ile-AAT-5          -GGCCGGU..U.A.GCUCAGUU-GGUU-AGAGCGUGGUGCUAAUAACGC.CAAG-------------------GU.CGCGGGUUCGAUCCCCG.UACGG...GCCACCA
+#=GR tRNA-Ile-AAT-5  PP .*******..*.*.********.****.*********************.****...................**.*****************.*****...*******
+tRNA-Ile-AAT-6          -GGCCGGU..U.A.GCUCAGUU-GGUU-AGAGCGUGGUGCUAAUAACGC.UAAG-------------------GU.CGCGGGUUCGAUCCCCG.UACUG...GCCACCA
+#=GR tRNA-Ile-AAT-6  PP .*******..*.*.********.****.*********************.****...................**.*****************.*****...*******
+tRNA-Ile-AAT-7          -GGCCGGU..U.A.GCUCAGUU-GGUC-AGAGCGUGGUGCUAAUAACGC.CAAG-------------------GU.CGCGGGUUCGAUCCCCG.UACGG...GCCACCA
+#=GR tRNA-Ile-AAT-7  PP .*******..*.*.********.****.*********************.****...................**.*****************.*****...*******
+tRNA-Ile-AAT-8          -GGCCGGU..U.A.GCUCAGUC-GGCU-AGAGCGUGGUGCUAAUAACGC.CAAG-------------------GU.CGCGGGUUCGAUCCCCG.UACGG...GCCACCA
+#=GR tRNA-Ile-AAT-8  PP .*******..*.*.********.****.*********************.****...................**.*****************.*****...*******
+tRNA-Ile-AAT-9          -GGCUGGU..U.A.GUUCAGUU-GGUU-AGAGCGUGGUGCUAAUAACGC.CAAG-------------------GU.CGUGGGUUCGAUCCCCA.UAUCG...GCCACCA
+#=GR tRNA-Ile-AAT-9  PP .*******..*.*.********.****.*********************.****...................**.*****************.*****...*******
+tRNA-Ile-GAT-1          -GGCCGGU..U.A.GCUCAGUU-GGUA-AGAGCGUGGUGCUGAUAACAC.CAAG-------------------GU.CGCGGGCUCGACUCCCG.CACCG...GCCACCA
+#=GR tRNA-Ile-GAT-1  PP .*******..*.*.********.***9.*********************.****...................**.*****************.*****...*******
+tRNA-Ile-TAT-1          -GCUCCAG..U.G.GCGCAAUC-GGUU-AGCGCGCGGUACUUACAAUGC.CGAG-------------------GU.UGUGAGUUCGAUCCUCA.CCUGG...AGCACCA
+#=GR tRNA-Ile-TAT-1  PP .*******..*.*.********.****.*********************.****...................**.*****************.*****...*******
+tRNA-Ile-TAT-2          -GCUCCAG..U.G.GCGCAAUC-GGUU-AGCGCGCGGUACUUAUAAUGC.CGAG-------------------GU.UGUGAGUUCGAGCCUCA.CCUGG...AGCACCA
+#=GR tRNA-Ile-TAT-2  PP .*******..*.*.********.****.*********************.****...................**.*****************.*****...*******
+tRNA-Ile-TAT-3          -GCUCCAG..U.G.GCGCAAUC-GGUU-AGCGCGCGGUACUUAUAAUGC.CGAG-------------------GU.UGUGAGUUCAAGCCUCA.CCUGG...AGCACCA
+#=GR tRNA-Ile-TAT-3  PP .*******..*.*.********.****.*********************.****...................**.*****************.*****...*******
+tRNA-Leu-AAG-1          -GGUAGCG..U.G.GCCGAGC--GGUCUAAGGCGCUGGAUUAAGGCUCC.AGU-CUC----UUCG-----GAGG-.CGUGGGUUCGAAUCCCA.CCGCU...GCCACCA
+#=GR tRNA-Leu-AAG-1  PP .*******..*.*.*******..**************************.***.***....6666.....****..*****************.*****...*******
+tRNA-Leu-AAG-2          -GGUAGCG..U.G.GCCGAGC--GGUCUAAGGCGCUGGAUUAAGGCUCC.AGU-CUC----UUCG-----GGGG-.CGUGGGUUCGAAUCCCA.CCGCU...GCCACCA
+#=GR tRNA-Leu-AAG-2  PP .*******..*.*.*******..**************************.***.***....7776.....8888..*****************.*****...*******
+tRNA-Leu-AAG-3          -GGUAGCG..U.G.GCCGAGC--GGUCUAAGGCGCUGGAUUAAGGCUCC.AGU-CUC----UUCG-----GGGG-.CGUGGGUUCAAAUCCCA.CCGCU...GCCACCA
+#=GR tRNA-Leu-AAG-3  PP .*******..*.*.*******..**************************.***.***....7776.....8888..*****************.*****...*******
+tRNA-Leu-AAG-4          -GGUAGCG..U.G.GCCGAGU--GGUCUAAGACGCUGGAUUAAGGCUCC.AGU-CUC----UUCG-----GGGG-.CGUGGGUUUGAAUCCCA.CCGCU...GCCACCA
+#=GR tRNA-Leu-AAG-4  PP .*******..*.*.*******..**************************.***.***....7776.....8888..*****************.*****...*******
+tRNA-Leu-CAA-1          -GUCAGGA..U.G.GCCGAGU--GGUCUAAGGCGCCAGACUCAGAUUCU.GGU-CUCC---AAU-----GGAGG-.CGUGGGUUCGAAUCCCA.CUUCU...GACACCA
+#=GR tRNA-Leu-CAA-1  PP .*******..*.*.*******..**************************.***.****...***.....*****..*****************.*****...*******
+tRNA-Leu-CAA-2          -GUCAGGA..U.G.GCCGAGU--GGUCUAAGGCGCCAGACUCAUCUUCU.GGU-CUCC---GUAU----GGAGG-.CGUGGGUUCGAAUCCCA.CUUCU...GACACCA
+#=GR tRNA-Leu-CAA-2  PP .*******..*.*.*******..**************************.***.****...****....*****..*****************.*****...*******
+tRNA-Leu-CAA-3          -GUCAGGA..U.G.GCCGAGU--GGUCUAAGGCGCCAGACUCAGCUUCU.GGU-CUCC---GCAU----GGAGG-.CGUGGGUUCGAAUCCCA.CUUCU...GACACCA
+#=GR tRNA-Leu-CAA-3  PP .*******..*.*.*******..**************************.***.****...****....*****..*****************.*****...*******
+tRNA-Leu-CAA-4          -GUCAGGA..U.G.GCCGAGU--GGUCUAAGGCGCCAGACUCAAUUUCU.GGU-CUCC---GGAU----GGAGG-.CGUGGGUUCGAAUCCCA.CUUCU...GACACCA
+#=GR tRNA-Leu-CAA-4  PP .*******..*.*.*******..**************************.***.****...****....*****..*****************.*****...*******
+tRNA-Leu-CAA-5          -GCCUCCU..U.A.GUGCAGUA-GGU--AGCGCAUCAGUCUCAAAAUCU.GAA--------UG----------GU.CCUGAGUUCAAGCCUCA.GAGGG...GGCACCA
+#=GR tRNA-Leu-CAA-5  PP .*******..*.*.********.***..*********************.***........44..........99.*****************.*****...*******
+tRNA-Leu-CAA-6          -GUCAGGA..U.G.GCCGAGCA-GUCUUAAGGCGCUGCGUUCAAAUCGC.A-CCCUCC---GCU-----GGAGG-.CGUGGGUUCGAAUCCCA.CUUUU...GACACCA
+#=GR tRNA-Leu-CAA-6  PP .*******..*.*.*******5.55555*********************.*.87****...***.....*****..*****************.*****...*******
+tRNA-Leu-CAG-1          -GUCAGGA..U.G.GCCGAGC--GGUCUAAGGCGCUGCGUUCAGGUCGC.AGU-CUCC---CCU-----GGAGG-.CGUGGGUUCGAAUCCCA.CUCCU...GACACCA
+#=GR tRNA-Leu-CAG-1  PP .*******..*.*.*******..**************************.***.****...***.....*****..*****************.*****...*******
+tRNA-Leu-CAG-2          -GUCAGGA..U.G.GCCGAGC--GGUCUAAGGCGCUGCGUUCAGGUCGC.AGU-CUCC---CCU-----GGAGG-.CGUGGGUUCGAAUCCCA.CUUCU...GACACCA
+#=GR tRNA-Leu-CAG-2  PP .*******..*.*.*******..**************************.***.****...***.....*****..*****************.*****...*******
+tRNA-Leu-TAA-1          -ACCAGGA..U.G.GCCGAGU--GGUU-AAGGCGUUGGACUUAAGAUCC.AAU-GGAC---AUAU----GUCCG-.CGUGGGUUCGAACCCCA.CUCCU...GGUACCA
+#=GR tRNA-Leu-TAA-1  PP .*******..*.*.*******..****.*********************.***.****...****....*****..*****************.*****...*******
+tRNA-Leu-TAA-2          -ACCGGGA..U.G.GCCGAGU--GGUU-AAGGCGUUGGACUUAAGAUCC.AAU-GGGCUG-------GUGCCCG-.CGUGGGUUCGAACCCCA.CUCUC...GGUACCA
+#=GR tRNA-Leu-TAA-2  PP .*******..*.*.*******..****.*********************.***.999977.......77*****..*****************.*****...*******
+tRNA-Leu-TAA-3          -ACCAGAA..U.G.GCCGAGU--GGUU-AAGGCGUUGGACUUAAGAUCC.AAU-GGAU---UCAU----AUCCG-.CGUGGGUUCGAACCCCA.CUUCU...GGUACCA
+#=GR tRNA-Leu-TAA-3  PP .*******..*.*.*******..****.*********************.***.****...****....*****..*****************.*****...*******
+tRNA-Leu-TAA-4          -ACCGGGA..U.G.GCUGAGU--GGUU-AAGGCGUUGGACUUAAGAUCC.AAU-GGACAG-------GUGUCCG-.CGUGGGUUCGAGCCCCA.CUCCC...GGUACCA
+#=GR tRNA-Leu-TAA-4  PP .*******..*.*.*******..****.*********************.***.****99.......99*****..*****************.*****...*******
+tRNA-Leu-TAG-1          -GGUAGCG..U.G.GCCGAGC--GGUCUAAGGCGCUGGAUUUAGGCUCC.AGU-CUC----UUCG-----GAGG-.CGUGGGUUCGAAUCCCA.CCGCU...GCCACCA
+#=GR tRNA-Leu-TAG-1  PP .*******..*.*.*******..**************************.***.***....6666.....****..*****************.*****...*******
+tRNA-Leu-TAG-2          -GGUAGUG..U.G.GCCGAGC--GGUCUAAGGCGCUGGAUUUAGGCUCC.AGU-CUC----UUCG-----GGGG-.CGUGGGUUCGAAUCCCA.CCACU...GCCACCA
+#=GR tRNA-Leu-TAG-2  PP .*******..*.*.*******..**************************.***.***....7776.....8888..*****************.*****...*******
+tRNA-Leu-TAG-3          -GGUAGCG..U.G.GCCGAGU--GGUCUAAGGCGCUGGAUUUAGGCUCC.AGU-CAU----UUCG-----AUGG-.CGUGGGUUCGAAUCCCA.CCGCU...GCCACCA
+#=GR tRNA-Leu-TAG-3  PP .*******..*.*.*******..**************************.***.999....6666.....9999..*****************.*****...*******
+tRNA-Lys-CTT-1          -GCCCGGC..U.A.GCUCAGUC-GGU--AGAGCAUGGGACUCUUAAUCC.CAGG-------------------GU.CGUGGGUUCGAGCCCCA.CGUUG...GGCGCCA
+#=GR tRNA-Lys-CTT-1  PP .*******..*.*.********.***..*********************.****...................**.*****************.*****...*******
+tRNA-Lys-CTT-10         -GCCCAGC..U.A.GCUCAGUC-GGU--AGAGCAUAAGACUCUUAAUCU.CAGG-------------------GU.UGUGGAUUCGUGCCCCA.UGCUG...GGUGCCA
+#=GR tRNA-Lys-CTT-10 PP .*******..*.*.********.***..*********************.****...................**.*****************.*****...*******
+tRNA-Lys-CTT-11         --GC-AGC..U.A.GCUCAGUC-GGU--AGAGCAUGAGACUCUUAAUCU.CAGG-------------------GU.CAUGGGUUCGUGCCCCA.UGUUGgguGCCACCA
+#=GR tRNA-Lys-CTT-11 PP ..55.688..*.*.********.***..*********************.****...................**.*****************.*88651115577777
+tRNA-Lys-CTT-2          -GCCCGGC..U.A.GCUCAGUC-GGU--AGAGCAUGAGACUCUUAAUCU.CAGG-------------------GU.CGUGGGUUCGAGCCCCA.CGUUG...GGCGCCA
+#=GR tRNA-Lys-CTT-2  PP .*******..*.*.********.***..*********************.****...................**.*****************.*****...*******
+tRNA-Lys-CTT-3          -GCCCGGC..U.A.GCUCAGUC-GGU--AGAGCAUGAGACCCUUAAUCU.CAGG-------------------GU.CGUGGGUUCGAGCCCCA.CGUUG...GGCGCCA
+#=GR tRNA-Lys-CTT-3  PP .*******..*.*.********.***..*********************.****...................**.*****************.*****...*******
+tRNA-Lys-CTT-4          -GCCCGGC..U.A.GCUCAGUC-GGU--AGAGCAUGGGACUCUUAAUCU.CAGG-------------------GU.CGUGGGUUCGAGCCCCA.CGUUG...GGCGCCA
+#=GR tRNA-Lys-CTT-4  PP .*******..*.*.********.***..*********************.****...................**.*****************.*****...*******
+tRNA-Lys-CTT-5          -GCCCGGC..U.A.GCUCAGUC-GAU--AGAGCAUGAGACUCUUAAUCU.CAGG-------------------GU.CGUGGGUUCGAGCCGCA.CGUUG...GGCGCCA
+#=GR tRNA-Lys-CTT-5  PP .*******..*.*.*******9.888..*********************.****...................**.*****************.*****...*******
+tRNA-Lys-CTT-7          -GCCCAGC..U.A.GCUCAGUC-GGU--AGAGCAUGAGACUCUUAAUCU.CAGG-------------------GU.CAUGGGUUUGAGCCCCA.CGUUU...GGUGCCA
+#=GR tRNA-Lys-CTT-7  PP .*******..*.*.********.***..*********************.****...................**.*****************.*****...*******
+tRNA-Lys-CTT-8          -GCCUGGC..U.A.GCUCAGUC-GGC--AAAGCAUGAGACUCUUAAUCU.CAGG-------------------GU.CGUGGGCUCGAGCUCCA.UGUUG...GGCGCCA
+#=GR tRNA-Lys-CTT-8  PP .*******..*.*.********.***..*********************.****...................**.*****************.*****...*******
+tRNA-Lys-CTT-9          -GCCCGAC..U.A.CCUCAGUC-GGUG--GAGCAUGGGACUCUUCAUCC.CAGG-------------------GU.UGUGGGUUCGAGCCCCA.CAUUG...GGCACCA
+#=GR tRNA-Lys-CTT-9  PP .*******..*.*.********.***5..********************.****...................**.*****************.*****...*******
+tRNA-Lys-TTT-1          -GCCUGGA..U.A.GCUCAGUU-GGU--AGAGCAUCAGACUUUUAAUCU.GAGG-------------------GU.CCAGGGUUCAAGUCCCU.GUUCA...GGCACCA
+#=GR tRNA-Lys-TTT-1  PP .*******..*.*.********.***..*********************.****...................**.*****************.*****...*******
+tRNA-Lys-TTT-11         -ACCCAGA..U.A.GCUCAGUC-AGU--AGAGCAUCAGACUUUUAAUCU.GAGG-------------------GU.CCAAGGUUCAUGUCCCU.UUUUG...GGUGCCA
+#=GR tRNA-Lys-TTT-11 PP .*******..*.*.********.***..*********************.****...................**.99999************.*****...*******
+tRNA-Lys-TTT-2          -GCCUGGA..U.A.GCUCAGUU-GGU--AGAGCAUCAGACUUUUAAUCU.GAGG-------------------GU.CCAGGGUUCAAGUCCCU.GUUCA...GGCGCCA
+#=GR tRNA-Lys-TTT-2  PP .*******..*.*.********.***..*********************.****...................**.*****************.*****...*******
+tRNA-Lys-TTT-3          -GCCCGGA..U.A.GCUCAGUC-GGU--AGAGCAUCAGACUUUUAAUCU.GAGG-------------------GU.CCAGGGUUCAAGUCCCU.GUUCG...GGCGCCA
+#=GR tRNA-Lys-TTT-3  PP .*******..*.*.********.***..*********************.****...................**.*****************.*****...*******
+tRNA-Lys-TTT-4          -GCCUGGA..U.A.GCUCAGUC-GGU--AGAGCAUCAGACUUUUAAUCU.GAGG-------------------GU.CCAGGGUUCAAGUCCCU.GUUCA...GGCGCCA
+#=GR tRNA-Lys-TTT-4  PP .*******..*.*.********.***..*********************.****...................**.*****************.*****...*******
+tRNA-Lys-TTT-5          -GCCCGGA..U.A.GCUCAGUC-GGU--AGAGCAUCAGACUUUUAAUCU.GAGG-------------------GU.CCGGGGUUCAAGUCCCU.GUUCG...GGCGCCA
+#=GR tRNA-Lys-TTT-5  PP .*******..*.*.********.***..*********************.****...................**.*****************.*****...*******
+tRNA-Lys-TTT-6          -GCCUGGG..U.A.GCUCAGUC-GGU--AGAGCAUCAGACUUUUAAUCU.GAGG-------------------GU.CCAGGGUUCAAGUCCCU.GUCCA...GGCGCCA
+#=GR tRNA-Lys-TTT-6  PP .*******..*.*.********.***..*********************.****...................**.*****************.*****...*******
+tRNA-Lys-TTT-7          -GCCUGGA..U.A.GCUCAGUU-GGU--AGAACAUCAGACUUUUAAUCU.GACG-------------------GU.GCAGGGUUCAAGUCCCU.GUUCA...GGCGCCA
+#=GR tRNA-Lys-TTT-7  PP .*******..*.*.********.***..*********************.****...................**.*****************.*****...*******
+tRNA-Met-CAT-1          -GCCUCGU..U.A.GCGCAGUA-GGU--AGCGCGUCAGUCUCAUAAUCU.GAAG-------------------GU.CGUGAGUUCGAUCCUCA.CACGG...GGCACCA
+#=GR tRNA-Met-CAT-1  PP .*******..*.*.********.***..*********************.****...................**.*****************.*****...*******
+tRNA-Met-CAT-2          -GCCCUCU..U.A.GCGCAGU--GGGC-AGCGCGUCAGUCUCAUAAUCU.GAAG-------------------GU.CCUGAGUUCGAGCCUCA.GAGAG...GGCACCA
+#=GR tRNA-Met-CAT-2  PP .*******..*.*.*******..9999.*********************.****...................**.*****************.*****...*******
+tRNA-Met-CAT-3          -GCCUCCU..U.A.GCGCAGUA-GGC--AGCGCGUCAGUCUCAUAAUCU.GAAG-------------------GU.CCUGAGUUCGAACCUCA.GAGGG...GGCACCA
+#=GR tRNA-Met-CAT-3  PP .*******..*.*.********.***..*********************.****...................**.*****************.*****...*******
+tRNA-Met-CAT-4          -GCCCUCU..U.A.GCGCAGC--GGGC-AGCGCGUCAGUCUCAUAAUCU.GAAG-------------------GU.CCUGAGUUCGAGCCUCA.GAGAG...GGCACCA
+#=GR tRNA-Met-CAT-4  PP .*******..*.*.*******..9999.*********************.****...................**.*****************.*****...*******
+tRNA-Met-CAT-5          -GCCCUCU..U.A.GCGCAGCU-GGC--AGCGCGUCAGUCUCAUAAUCU.GAAG-------------------GU.CCUGAGUUCAAGCCUCA.GAGAG...GGCACCA
+#=GR tRNA-Met-CAT-5  PP .*******..*.*.********.***..*********************.****...................**.*****************.*****...*******
+tRNA-Met-CAT-6          -GCCUCGU..U.A.GCGCAGUA-GGC--AGCGCGUCAGUCUCAUAAUCU.GAAG-------------------GU.CGUGAGUUCGAGCCUCA.CACGG...GGCACCA
+#=GR tRNA-Met-CAT-6  PP .*******..*.*.********.***..*********************.****...................**.*****************.*****...*******
+tRNA-Met-CAT-7          -GCCCUCU..U.A.GUGCAGCU-GGC--AGCGCGUCAGUUUCAUAAUCU.GAAA-------------------GU.CCUGAGUUCAAGCCUCA.GAGAG...GGCACCA
+#=GR tRNA-Met-CAT-7  PP .*******..*.*.********.***..*********************.****...................**.*****************.*****...*******
+tRNA-Phe-GAA-1          -GCCGAAA..U.A.GCUCAGUU-GGG--AGAGCGUUAGACUGAAGAUCU.AAAG-------------------GU.CCCUGGUUCGAUCCCGG.GUUUC...GGCACCA
+#=GR tRNA-Phe-GAA-1  PP .*******..*.*.********.***..*********************.****...................**.*****************.*****...*******
+tRNA-Phe-GAA-2          -GCCGAAA..U.A.GCUCAGUU-GGG--AGAGCGUUAGACUGAAGAUCU.AAAG-------------------GU.CCCUGGUUCAAUCCCGG.GUUUC...GGCACCA
+#=GR tRNA-Phe-GAA-2  PP .*******..*.*.********.***..*********************.****...................**.*****************.*****...*******
+tRNA-Phe-GAA-3          -GCCGAGA..U.A.GCUCAGUU-GGG--AGAGCGUUAGACUGAAGAUCU.AAAG-------------------GU.CCCUGGUUCAAUCCCGG.GUUUC...GGCACCA
+#=GR tRNA-Phe-GAA-3  PP .*******..*.*.********.***..*********************.****...................**.*****************.*****...*******
+tRNA-Phe-GAA-4          -GCCGAAA..U.A.GCUCAGUU-GGG--AGAGCGUUAGACCGAAGAUCUuAAAG-------------------GU.CCCUGGUUCAAUCCCGG.GUUUC...GGCACCA
+#=GR tRNA-Phe-GAA-4  PP .*******..*.*.********.***..********************648888...................**.*****************.*****...*******
+tRNA-Phe-GAA-6          -GCUGAAA..U.A.GCUCAGUU-GGG--AGAGCGUUAGACUGAAGAUCU.UAAA-------------------GUuCCCUGGUUCAACCCUGG.GUUUC...AGCCCCA
+#=GR tRNA-Phe-GAA-6  PP .*******..*.*.********.***..*********************.9999...................777*****************.*****...*******
+tRNA-Pro-AGG-1          -GGCUCGU..U.G.GUCUAGG--GGU--AUGAUUCUCGCUUAGGAUGCG.AGAG-------------------GU.CCCGGGUUCAAAUCCCG.GACGA...GCCCCCA
+#=GR tRNA-Pro-AGG-1  PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Pro-AGG-2          -GGCUCGU..U.G.GUCUAGG--GGU--AUGAUUCUCGCUUAGGGUGCG.AGAG-------------------GU.CCCGGGUUCAAAUCCCG.GACGA...GCCCCCA
+#=GR tRNA-Pro-AGG-2  PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Pro-CGG-1          -GGCUCGU..U.G.GUCUAGG--GGU--AUGAUUCUCGCUUCGGGUGCG.AGAG-------------------GU.CCCGGGUUCAAAUCCCG.GACGA...GCCCCCA
+#=GR tRNA-Pro-CGG-1  PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Pro-CGG-2          -GGCUCGU..U.G.GUCUAGG--GGU--AUGAUUCUCGCUUCGGGUGUG.AGAG-------------------GU.CCCGGGUUCAAAUCCCG.GACGA...GCCCCCA
+#=GR tRNA-Pro-CGG-2  PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Pro-TGG-1          -GGCUCGU..U.G.GUCUAGU--GGU--AUGAUUCUCGCUUUGGGUGCG.AGAG-------------------GU.CCCGGGUUCAAAUCCCG.GACGA...GCCCCCA
+#=GR tRNA-Pro-TGG-1  PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Pro-TGG-2          -GGCUCGU..U.G.GUCUAGG--GGU--AUGAUUCUCGGUUUGGGUCCG.AGAG-------------------GU.CCCGGGUUCAAAUCCCG.GACGA...GCCCCCA
+#=GR tRNA-Pro-TGG-2  PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Pro-TGG-3          -GGCUCGU..U.G.GUCUAGG--GGU--AUGAUUCUCGCUUUGGGUGCG.AGAG-------------------GU.CCCGGGUUCAAAUCCCG.GACGA...GCCCCCA
+#=GR tRNA-Pro-TGG-3  PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-SeC-TCA-1          -GCCCGGA..UgAuCCUCAGU--GGUC-UGGGGUGCAGGCUUCAAACCU.GUA-GCUG---UCUAG---CGACA-.GAGUGGUUCAAUUCCACcUUUCG...GGCGCCA
+#=GR tRNA-SeC-TCA-1  PP .*******..*88********..****.*********************.***.****...66666...*****..***********************...*******
+tRNA-Ser-AGA-1          -GUAGUCG..U.G.GCCGAGU--GGUU-AAGGCGAUGGACUAGAAAUCC.AUU-GGGG---UUU-----CCCCG-.CGCAGGUUCGAAUCCUG.CCGAC...UACGCCA
+#=GR tRNA-Ser-AGA-1  PP .*******..*.*.*******..****.*********************.***.9999...***.....9****..*****************.*****...*******
+tRNA-Ser-AGA-2          -GUAGUCG..U.G.GCCGAGU--GGUU-AAGGCGAUGGACUAGAAAUCC.AUU-GGGG---UCU-----CCCCG-.CGCAGGUUCGAAUCCUG.CCGAC...UACGCCA
+#=GR tRNA-Ser-AGA-2  PP .*******..*.*.*******..****.*********************.***.9999...***.....9****..*****************.*****...*******
+tRNA-Ser-AGA-3          -GUAGUCG..U.G.GCCGAGU--GGUU-AAGGCGAUGGACUAGAAAUCC.AUU-GGGG---UUU-----CCCCA-.CGCAGGUUCGAAUCCUG.CCGAC...UACGCCA
+#=GR tRNA-Ser-AGA-3  PP .*******..*.*.*******..****.*********************.***.9999...***.....9****..*****************.*****...*******
+tRNA-Ser-AGA-4          -GUAGUCG..U.G.GCCGAGU--GGUU-AAGGUGAUGGACUAGAAACCC.AUU-GGGG---UCU-----CCCCG-.CGCAGGUUCGAAUCCUG.CCGAC...UACGCCA
+#=GR tRNA-Ser-AGA-4  PP .*******..*.*.*******..****.*********************.***.9999...***.....9****..*****************.*****...*******
+tRNA-Ser-CGA-1          -GCUGUGA..U.G.GCCGAGU--GGUU-AAGGCGUUGGACUCGAAAUCC.AAU-GGGG---UCU-----CCCCG-.CGCAGGUUCGAAUCCUG.CUCAC...AGCGCCA
+#=GR tRNA-Ser-CGA-1  PP .*******..*.*.*******..****.*********************.***.9999...***.....9****..*****************.*****...*******
+tRNA-Ser-CGA-2          -GCUGUGA..U.G.GCCGAGU--GGUU-AAGGCGUUGGACUCGAAAUCC.AAU-GGGG---UCU-----CCCCG-.CGCAGGUUCAAAUCCUG.CUCAC...AGCGCCA
+#=GR tRNA-Ser-CGA-2  PP .*******..*.*.*******..****.*********************.***.9999...***.....9****..*****************.*****...*******
+tRNA-Ser-CGA-3          -GCUGUGA..U.G.GCCGAGU--GGUU-AAGGUGUUGGACUCGAAAUCC.AAUGGGGG----UU-----CCCCG-.CGCAGGUUCAAAUCCUG.CUCAC...AGCGCCA
+#=GR tRNA-Ser-CGA-3  PP .*******..*.*.*******..****.*********************.***55555....55.....*****..*****************.*****...*******
+tRNA-Ser-CGA-4          -GUCACGG..U.G.GCCGAGU--GGUU-AAGGCGUUGGACUCGAAAUCC.AAU-GGGG---UUU-----CCCCG-.CACAGGUUCGAAUCCUG.UUCGU...GACGCCA
+#=GR tRNA-Ser-CGA-4  PP .*******..*.*.*******..****.*********************.***.9999...***.....9****..*****************.*****...*******
+tRNA-Ser-GCT-1          -GACGAGG..U.G.GCCGAGU--GGUU-AAGGCGAUGGACUGCUAAUCC.AUU-GUGC---UCU-----GCACG-.CGUGGGUUCGAAUCCCA.CCCUC...GUCGCCA
+#=GR tRNA-Ser-GCT-1  PP .*******..*.*.*******..****.*********************.***.****...***.....*****..*****************.*****...*******
+tRNA-Ser-GCT-2          -GACGAGG..U.G.GCCGAGU--GGUU-AAGGCGAUGGACUGCUAAUCC.AUU-GUGC---UCU-----GCACG-.CGUGGGUUCGAAUCCCA.CCUUC...GUCGCCA
+#=GR tRNA-Ser-GCT-2  PP .*******..*.*.*******..****.*********************.***.****...***.....*****..*****************.*****...*******
+tRNA-Ser-GCT-3          -GACGAGG..U.G.GCCGAGU--GGUU-AAGGCGAUGGACUGCUAAUCC.AUU-GUGC---UUU-----GCACG-.CGUGGGUUCGAAUCCCA.UCCUC...GUCGCCA
+#=GR tRNA-Ser-GCT-3  PP .*******..*.*.*******..****.*********************.***.****...***.....*****..*****************.*****...*******
+tRNA-Ser-GCT-4          -GACGAGG..U.G.GCCGAGU--GGUU-AAGGCGAUGGACUGCUAAUCC.AUU-GUGC---UCU-----GCACG-.CGUGGGUUCGAAUCCCA.UCCUC...GUCGCCA
+#=GR tRNA-Ser-GCT-4  PP .*******..*.*.*******..****.*********************.***.****...***.....*****..*****************.*****...*******
+tRNA-Ser-GCT-5          -GACGAGG..U.G.GCCGAGU--GGUU-AAGGCGAUGGACUGCUAAUCC.AUU-GUGC---UCU-----GCACA-.CGUGGGUUCGAAUCCCA.UCCUC...GUCGCCA
+#=GR tRNA-Ser-GCT-5  PP .*******..*.*.*******..****.*********************.***.****...***.....*****..*****************.*****...*******
+tRNA-Ser-GCT-6          -GGAGAGGccU.G.GCCGAGU--GGUU-AAGGCGAUGGACUGCUAAUCC.AUU-GUGC---UCU-----GCACG-.CGUGGGUUCGAAUCCCA.UCCUC...GUCGCCA
+#=GR tRNA-Ser-GCT-6  PP .9999999***.*.*******..****.*********************.***.****...***.....*****..*****************.*****...9999999
+tRNA-Ser-TGA-1          -GCAGCGA..U.G.GCCGAGU--GGUU-AAGGCGUUGGACUUGAAAUCC.AAU-GGGG---UCU-----CCCCG-.CGCAGGUUCGAACCCUG.CUCGC...UGCGCCA
+#=GR tRNA-Ser-TGA-1  PP .*******..*.*.*******..****.*********************.***.9999...***.....9****..*****************.*****...*******
+tRNA-Ser-TGA-2          -GUAGUCG..U.G.GCCGAGU--GGUU-AAGGCGAUGGACUUGAAAUCC.AUU-GGGG---UUU-----CCCCG-.CGCAGGUUCGAAUCCUG.CCGAC...UACGCCA
+#=GR tRNA-Ser-TGA-2  PP .*******..*.*.*******..****.*********************.***.9999...***.....9****..*****************.*****...*******
+tRNA-Ser-TGA-3          -GUAGUCG..U.G.GCCGAGU--GGUU-AAGGCGAUGGACUUGAAAUCC.AUU-GGGG---UCU-----CCCCG-.CGCAGGUUCGAAUCCUG.CCGAC...UACGCCA
+#=GR tRNA-Ser-TGA-3  PP .*******..*.*.*******..****.*********************.***.9999...***.....9****..*****************.*****...*******
+tRNA-Ser-TGA-4          -GUAGUCG..U.G.GCCGAGU--GGUU-AAGGCGAUGGACUUGAAAUCC.AUU-GGGG---UUU-----CCCCG-.CGCAGGUUCGAAUCCUG.UCGGC...UACGCCA
+#=GR tRNA-Ser-TGA-4  PP .*******..*.*.*******..****.*********************.***.9999...***.....9****..*****************.*****...*******
+tRNA-Thr-AGT-1          -GGCGCCG..U.G.GCUUAGUU-GGUU-AAAGCGCCUGUCUAGUAAACA.GGAG-------------------AU.CCUGGGUUCGAAUCCCA.GCGGU...GCCUCCA
+#=GR tRNA-Thr-AGT-1  PP .*******..*.*.********.****.*********************.****...................**.*****************.*****...*******
+tRNA-Thr-AGT-2          -GGCUCCG..U.G.GCUUAGCU-GGUU-AAAGCGCCUGUCUAGUAAACA.GGAG-------------------AU.CCUGGGUUCGAAUCCCA.GCGGG...GCCUCCA
+#=GR tRNA-Thr-AGT-2  PP .*******..*.*.********.****.*********************.****...................**.*****************.*****...*******
+tRNA-Thr-AGT-3          -GGCUCCG..U.A.GCUUAGUU-GGUU-AAAGCGCCUGUCUAGUAAACA.GGAG-------------------AU.CCUGGGUUCGACUCCCA.GCGGG...GCCUCCA
+#=GR tRNA-Thr-AGT-3  PP .*******..*.*.********.****.*********************.****...................**.*****************.*****...*******
+tRNA-Thr-AGT-4          -GGCUUCG..U.G.GCUUAGCU-GGUU-AAAGCGCCUGUCUAGUAAACA.GGAG-------------------AU.CCUGGGUUCGAAUCCCA.GCGAG...GCCUCCA
+#=GR tRNA-Thr-AGT-4  PP .*******..*.*.********.****.*********************.****...................**.*****************.*****...*******
+tRNA-Thr-AGT-5          -GGCGCCG..U.G.GCUUAGCU-GGUU-AAAGCGCCUGUCUAGUAAACA.GGAG-------------------AU.CCUGGGUUCGAAUCCCA.GCGGU...GCCUCCA
+#=GR tRNA-Thr-AGT-5  PP .*******..*.*.********.****.*********************.****...................**.*****************.*****...*******
+tRNA-Thr-AGT-6          -GGCCCUG..U.G.GCUUAGCU-GGUC-AAAGCGCCUGUCUAGUAAACA.GGAG-------------------AU.CCUGGGUUCGAAUCCCA.GCGGG...GCCUCCA
+#=GR tRNA-Thr-AGT-6  PP .*******..*.*.********.****.*********************.****...................**.*****************.*****...*******
+tRNA-Thr-CGT-1          -GGCUCUA..U.G.GCUUAGUU-GGUU-AAAGCGCCUGUCUCGUAAACA.GGAG-------------------AU.CCUGGGUUCGACUCCCA.GUGGG...GCCUCCA
+#=GR tRNA-Thr-CGT-1  PP .*******..*.*.********.****.*********************.****...................**.*****************.*****...*******
+tRNA-Thr-CGT-2          -GGCGCGG..U.G.GCCAAGU--GGU--AAGGCGUCGGUCUCGUAAACC.GAAG-------------------AU.CACGGGUUCGAACCCCG.UCCGU...GCCUCCA
+#=GR tRNA-Thr-CGT-2  PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Thr-CGT-3          -GGCUCUG..U.G.GCUUAGUU-GGCU-AAAGCGCCUGUCUCGUAAACA.GGAG-------------------AU.CCUGGGUUCGAAUCCCA.GCGGG...GCCUCCA
+#=GR tRNA-Thr-CGT-3  PP .*******..*.*.********.****.*********************.****...................**.*****************.*****...*******
+tRNA-Thr-CGT-4          -GGCGCGG..U.G.GCCAAGU--GGU--AAGGCGUCGGUCUCGUAAACC.GAAG-------------------AU.CGCGGGUUCGAACCCCG.UCCGU...GCCUCCA
+#=GR tRNA-Thr-CGT-4  PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Thr-CGT-5          -GGCCCUG..U.A.GCUCAGC--GGUU-GGAGCGCUGGUCUCGUAAACCuAGGG-------------------GU.CGUGAGUUCAAAUCUCA.CCAGG...GCCUCCA
+#=GR tRNA-Thr-CGT-5  PP .*******..*.*.*******..****.*********************99999...................**.*****************.*****...*******
+tRNA-Thr-TGT-1          -GGCUCUA..U.G.GCUUAGUU-GGUU-AAAGCGCCUGUCUUGUAAACA.GGAG-------------------AU.CCUGGGUUCGAAUCCCA.GUAGA...GCCUCCA
+#=GR tRNA-Thr-TGT-1  PP .*******..*.*.********.****.*********************.****...................**.*****************.*****...*******
+tRNA-Thr-TGT-2          -GGCUCCA..U.A.GCUCAGU--GGUU-AGAGCACUGGUCUUGUAAACC.AGGG-------------------GU.CGCGAGUUCGAUCCUCG.CUGGG...GCCUCCA
+#=GR tRNA-Thr-TGT-2  PP .*******..*.*.*******..****.*********************.****...................**.*****************.*****...*******
+tRNA-Thr-TGT-3          -GGCUCCA..U.A.GCUCAGG--GGUU-AGAGCGCUGGUCUUGUAAACC.AGGG-------------------GU.CGCGAGUUCAAUUCUCG.CUGGG...GCCUCCA
+#=GR tRNA-Thr-TGT-3  PP .*******..*.*.*******..****.*********************.****...................**.*****************.*****...*******
+tRNA-Thr-TGT-4          -GGCUCCA..U.A.GCUCAGG--GGUU-AGAGCACUGGUCUUGUAAACC.AGGG-------------------GU.CGCGAGUUCAAAUCUCG.CUGGG...GCCUCCA
+#=GR tRNA-Thr-TGT-4  PP .*******..*.*.*******..****.*********************.****...................**.*****************.*****...*******
+tRNA-Thr-TGT-5          -GGCCCUA..U.A.GCUCAGG--GGUU-AGAGCACUGGUCUUGUAAACC.AGGG-------------------GU.CGCGAGUUCAAAUCUCG.CUGGG...GCCUCCA
+#=GR tRNA-Thr-TGT-5  PP .*******..*.*.*******..****.*********************.****...................**.*****************.*****...*******
+tRNA-Thr-TGT-6          -GGCUCCA..U.A.GCUCAGG--GGUU-AGAGCACUGGUCUUGUAAACC.AGG--------------------GU.CGCGAGUUCAAAUCUCG.CUGGG...GCCUCCA
+#=GR tRNA-Thr-TGT-6  PP .*******..*.*.*******..****.*********************.***....................99.*****************.*****...*******
+tRNA-Trp-CCA-1          -GGCCUCG..U.G.GCGCAAC--GGU--AGCGCGUCUGACUCCAGAUCA.GAAG-------------------GU.UGCGUGUUCAAAUCACG.UCGGG...GUCACCA
+#=GR tRNA-Trp-CCA-1  PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Trp-CCA-2          -GACCUCG..U.G.GCGCAAU--GGU--AGCGCGUCUGACUCCAGAUCA.GAAG-------------------GU.UGCGUGUUCAAGUCACG.UCGGG...GUCACCA
+#=GR tRNA-Trp-CCA-2  PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Trp-CCA-3          -GACCUCG..U.G.GCGCAAC--GGU--AGCGCGUCUGACUCCAGAUCA.GAAG-------------------GU.UGCGUGUUCAAAUCACG.UCGGG...GUCACCA
+#=GR tRNA-Trp-CCA-3  PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Trp-CCA-4          -GACCUCG..U.G.GCGCAAC--GGU--AGCGCGUCUGACUCCAGAUCA.GAAG-------------------GC.UGCGUGUUCGAAUCACG.UCGGG...GUCACCA
+#=GR tRNA-Trp-CCA-4  PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Trp-CCA-5          -GACCUCG..U.G.GCGCAAC--GGC--AGCGCGUCUGACUCCAGAUCA.GAAG-------------------GU.UGCGUGUUCAAAUCACG.UCGGG...GUCACCA
+#=GR tRNA-Trp-CCA-5  PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Tyr-ATA-1          -CCUUCAA..U.A.GUUCAGCU-GGU--AGAGCAGAGGACUAUACGUCC.UUAG-------------------GU.UGCUGGUUCGAUUCCAG.CUUGA...AGGACCA
+#=GR tRNA-Tyr-ATA-1  PP .*******..*.*.********.***..*********************.****...................**.*****************.*****...*******
+tRNA-Tyr-GTA-1          -CCUUCGA..U.A.GCUCAGUU-GGU--AGAGCGGAGGACUGUACAUCC.UUAG-------------------GU.CGCUGGUUCGAAUCCGG.CUCGA...AGGACCA
+#=GR tRNA-Tyr-GTA-1  PP .*******..*.*.********.***..*********************.****...................**.*****************.*****...*******
+tRNA-Tyr-GTA-2          -CCUUCGA..U.A.GCUCAGUU-GGU--AGAGCGGAGGACUGUAAAUCC.UUAG-------------------GU.CGCUGGUUCGAUUCCGG.CUCGA...AGGACCA
+#=GR tRNA-Tyr-GTA-2  PP .*******..*.*.********.***..*********************.****...................**.*****************.*****...*******
+tRNA-Tyr-GTA-3          -CCUUCGA..U.A.GCUCAGUU-GGU--AGAGCGGAGGACUGUAUAUCC.UUAG-------------------GU.CGCUGGUUCGAAUCCGG.CUCGG...AGGACCA
+#=GR tRNA-Tyr-GTA-3  PP .*******..*.*.********.***..*********************.****...................**.*****************.*****...*******
+tRNA-Tyr-GTA-4          -CCUUCGA..U.A.GCUCAGCU-GGU--AGAGCGGAGGACUGUACAUCC.UUAG-------------------GU.CGCUGGUUCGAUUCCAG.CUCGA...AGGACCA
+#=GR tRNA-Tyr-GTA-4  PP .*******..*.*.********.***..*********************.****...................**.*****************.*****...*******
+tRNA-Tyr-GTA-5          -CCUUCGA..U.A.GCUCAGCU-GGU--AGAGCGGAGGACUGUACAUCC.UUAG-------------------GU.CGCUGGUUCGAUUCCGG.CUCGA...AGGACCA
+#=GR tRNA-Tyr-GTA-5  PP .*******..*.*.********.***..*********************.****...................**.*****************.*****...*******
+tRNA-Tyr-GTA-6          -CCUUCGA..U.A.GCUCAGCU-GGU--AGAGCGGAGGACUGUACAUCC.UUAG-------------------GU.CGCUGGUUCGAAUCCGG.CUCGG...AGGACCA
+#=GR tRNA-Tyr-GTA-6  PP .*******..*.*.********.***..*********************.****...................**.*****************.*****...*******
+tRNA-Tyr-GTA-7          -CCUUCGA..U.A.GCUCAGCU-GGU--AGAGCGGAGGACUGUACAUCC.UUAG-------------------GU.CGCUGGUUCAAUUCCGG.CUCGA...AGGACCA
+#=GR tRNA-Tyr-GTA-7  PP .*******..*.*.********.***..*********************.****...................**.*****************.*****...*******
+tRNA-Tyr-GTA-8          -CUUUCGA..U.A.GCUCAGUU-GGU--AGAGCGGAGGACUGUACAUCC.UUAG-------------------GU.CGCUGGUUCGAAUCCGG.CUCGA...AGGACCA
+#=GR tRNA-Tyr-GTA-8  PP .*******..*.*.********.***..*********************.****...................**.*****************.*****...*******
+tRNA-Tyr-GTA-9          -UCUUCAA..U.A.GCUCAGCU-GGU--AGAGCGGAGGACUGUCCAUUC.UUAG-------------------G-.UGCUGGUUUGAUUCCGA.CUUGG...AGAGCCA
+#=GR tRNA-Tyr-GTA-9  PP .*******..*.*.********.***..*********************.****...................*..*****************.*****...*******
+tRNA-Val-AAC-1          -GUUUCCG..U.A.GUGUAGU--GGUU-AUCACGUUCGCCUAACACGCG.AAAG-------------------GU.CCCCGGUUCGAAACCGG.GCGGA...AACACCA
+#=GR tRNA-Val-AAC-1  PP .*******..*.*.*******..****.*********************.****...................**.*****************.*****...*******
+tRNA-Val-AAC-2          -GUUUCCG..U.A.GUGUAGU--GGUC-AUCACGUUCGCCUAACACGCG.AAAG-------------------GU.CCCCGGUUCGAAACCGG.GCGGA...AACACCA
+#=GR tRNA-Val-AAC-2  PP .*******..*.*.*******..****.*********************.****...................**.*****************.*****...*******
+tRNA-Val-AAC-3          -GUUUCCG..U.A.GUGUAGU--GGUU-AUCACGUUCGCCUAACACGCG.AAAG-------------------GU.CCCUGGAUCAAAACCAG.GCGGA...AACACCA
+#=GR tRNA-Val-AAC-3  PP .*******..*.*.*******..****.*********************.****...................**.*****************.*****...*******
+tRNA-Val-AAC-4          -GUUUCCG..U.A.GUGUAGU--GGUU-AUCACGUUCGCCUAACACGCG.AAAG-------------------GU.CCGCGGUUCGAAACCGG.GCGGA...AACACCA
+#=GR tRNA-Val-AAC-4  PP .*******..*.*.*******..****.*********************.****...................**.*****************.*****...*******
+tRNA-Val-AAC-5          -GUUUCCG..U.A.GUGUAGU--GGUU-AUCACGUUUGCCUAACACGCG.AAAG-------------------GU.CCCCGGUUCGAAACCGG.GCAGA...AACACCA
+#=GR tRNA-Val-AAC-5  PP .*******..*.*.*******..****.*********************.****...................**.*****************.*****...*******
+tRNA-Val-AAC-6          -GGGGGUG..U.A.GCUCAGU--GGU--AGAGCGUAUGCUUAACAUUCA.UGAG-------------------GC.UCUGGGUUCGAUCCCCA.GCACU...UCCACCA
+#=GR tRNA-Val-AAC-6  PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-Val-CAC-1          -GUUUCCG..U.A.GUGUAGU--GGUU-AUCACGUUCGCCUCACACGCG.AAAG-------------------GU.CCCCGGUUCGAAACCGG.GCGGA...AACACCA
+#=GR tRNA-Val-CAC-1  PP .*******..*.*.*******..****.*********************.****...................**.*****************.*****...*******
+tRNA-Val-CAC-14         -GUUUCCG..U.A.GUGUAGU--GGUU-AUCAUGUUCGCCUCACACGCG.AAAG-------------------GU.CCCCGGUUCGAAACUGG.AUGGA...AACACCA
+#=GR tRNA-Val-CAC-14 PP .*******..*.*.*******..****.*********************.****...................**.*****************.*****...*******
+tRNA-Val-CAC-2          -GCUUCUG..U.A.GUGUAGU--GGUU-AUCACGUUCGCCUCACACGCG.AAAG-------------------GU.CCCCGGUUCGAAACCGG.GCAGA...AGCACCA
+#=GR tRNA-Val-CAC-2  PP .*******..*.*.*******..****.*********************.****...................**.*****************.*****...*******
+tRNA-Val-CAC-3          -GUUUCCG..U.A.GUGUAGC--GGUU-AUCACAUUCGCCUCACACGCG.AAAG-------------------GU.CCCCGGUUCGAUCCCGG.GCGGA...AACACCA
+#=GR tRNA-Val-CAC-3  PP .*******..*.*.*******..****.*********************.****...................**.*****************.*****...*******
+tRNA-Val-CAC-4          -GUUUCCG..U.A.GUGUAGU--GGUU-AUCACGUUCGCCUCACACGCG.AAAG-------------------GU.CCCCGGUUCGAAACUGG.GCGGA...AACACCA
+#=GR tRNA-Val-CAC-4  PP .*******..*.*.*******..****.*********************.****...................**.*****************.*****...*******
+tRNA-Val-CAC-5          -GUUUCCG..U.A.GUGUAGU--GGUU-AUCACGUUCGCCUCACACGCG.AAAG-------------------GU.CCCCGGUUCGAAACCGG.GCGGA...AACACCA
+#=GR tRNA-Val-CAC-5  PP .*******..*.*.*******..****.*********************.****...................**.*****************.*****...*******
+tRNA-Val-CAC-6          -GUUUCCG..U.A.GUGGAGU--GGUU-AUCACGUUCGCCUCACACGCG.AAAG-------------------GU.CCCCGGUUUGAAACCAG.GCGGA...AACACCA
+#=GR tRNA-Val-CAC-6  PP .*******..*.*.*******..****.*********************.****...................**.*****************.*****...*******
+tRNA-Val-TAC-1          -GGUUCCA..U.A.GUGUAGU--GGUU-AUCACGUCUGCUUUACACGCA.GAAG-------------------GU.CCUGGGUUCGAGCCCCA.GUGGA...ACCACCA
+#=GR tRNA-Val-TAC-1  PP .*******..*.*.*******..****.*********************.****...................**.*****************.*****...*******
+tRNA-Val-TAC-2          -GGUUCCA..U.A.GUGUAGC--GGUU-AUCACGUCUGCUUUACACGCA.GAAG-------------------GU.CCUGGGUUCGAGCCCCA.GUGGA...ACCACCA
+#=GR tRNA-Val-TAC-2  PP .*******..*.*.*******..****.*********************.****...................**.*****************.*****...*******
+tRNA-Val-TAC-3          -GGUUCCA..U.A.GUGUAGU--GGUU-AUCACAUCUGCUUUACACGCA.GAAG-------------------GU.CCUGGGUUCAAGCCCCA.GUGGA...ACCACCA
+#=GR tRNA-Val-TAC-3  PP .*******..*.*.*******..****.*********************.****...................**.*****************.*****...*******
+tRNA-Val-TAC-4          -GUUUCCG..U.G.GUGUAGU--GGUU-AUCACAUUCGCCUUACACGCG.AAAG-------------------GU.CCUCGGGUCGAAACCGA.GCGGA...AACACCA
+#=GR tRNA-Val-TAC-4  PP .*******..*.*.*******..****.*********************.****...................**.*****************.*****...*******
+tRNA-iMet-CAT-1         -AGCAGAG..U.G.GCGCAGC--GGA--AGCGUGCUGGGCCCAUAACCC.AGAG-------------------GU.CGAUGGAUCGAAACCAU.CCUCU...GCUACCA
+#=GR tRNA-iMet-CAT-1 PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+tRNA-iMet-CAT-2         -AGCAGAG..U.G.GCGCAGC--GGA--AGCGUGCUGGGCCCAUAACCC.AGAG-------------------GU.CGAUGGAUCUAAACCAU.CCUCU...GCUACCA
+#=GR tRNA-iMet-CAT-2 PP .*******..*.*.*******..***..*********************.****...................**.*****************.*****...*******
+#=GC SS_cons            :(((((((..,.,.<<<<___________>>>>,<<<<<_______>>>.>>,,<<<<<<<_____>>>>>>>,,.,<<<<<_______>>>>.>))))...)))::::
+#=GC RF                 +=======..+.+.====+++++++++++====+=====++***++===.==++=======+++++=======++.+=====+++++++====.=====...===++++
+//
