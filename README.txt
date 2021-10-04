@@ -1,4 +1,4 @@
-The code in this repository is a compilation of different programs used in the processing, mapping, analysis and visualization of ALICE-tRNA-seq data sets. ALICE-tRNA-seq is a high-throuput RNA sequencing methodology I developed during my PhD that allows us to decipher the relative changes in tRNA expression at the gene level, in varying cellular and disease conditions.
+The code in this repository is a compilation of different programs used in the processing, mapping, analysis and visualization of ALICE-tRNA-seq and mRNA-seq data sets used in my PhD. ALICE-tRNA-seq is a high-throuput RNA sequencing methodology I developed during my PhD that allows us to decipher the relative changes in tRNA expression at the gene level, in varying cellular and disease conditions. The mRNA-seq analysis is done to calculate the relative synonymous codon usage of translating genes.
 
 tRNAs are small adapter RNA molecules used by the cell to decode the mRNA, bringing amino acids to the ribosomes, aiding in protein synthesis. Molecular and cancer biologists have long tried to decipher the role of the tRNAs in protein synthesis, and how the tRNA pool may change according to differing cellular states, and how they may affect protein synthesis in disease state. 
 
@@ -8,7 +8,7 @@ Although raw data will not be found on this page (due to intellectual property),
 
 # Adapter_trimming.sh 
 
-trims the Illumina sequencing adapters from the raw fastq input files, generating the processed files with prefix trimmed_
+representative script that trims the Illumina sequencing adapters from the raw fastq input files, generating the processed files with prefix trimmed_
 
 # processsamples.py
 
@@ -28,13 +28,10 @@ time python countreads.py --samplefile=samplefile_fedvsstarved.txt --ensemblgtf=
 
 adapted from: Holmes AD, Howard JM, Chan PP, and Lowe TM. tRNA Analysis of eXpression (tRAX): A tool for integrating analysis of tRNAs, tRNA-derived small RNAs, and tRNA modifications. 2020.
 
-# FedvsStarved_countsanalysis.R 
-
-counts processing and differential expression analysis for the Fed vs Starved cells experiment. Also has codes for visualization. sampleinformation.txt file and counts text file needed as input.
 
 # files with prefix hg38_nov2019_new-
 
-required by the processsamples.py, countreads.py and mapping packages 
+required by the processsamples.py, countreads.py and mapping packages. These are generated from the tRNA-Scan-SE programme (http://lowelab.ucsc.edu/tRNAscan-SE/) with the genome of interest being used as input.
 
 # generation of sample and pair files
 
